@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "6335759052db36ad1fd7068b",
+        "picture": "https://i.ibb.co/MfDsj3R/gym-bar-1.png",
+        "age": "20-25",
+        "name": "Gym Bar",
+        "time": "33",
+        "text": ""
+    },
+    {
+        "_id": "63357590a2f561e030ea551e",
+        "picture": "https://i.ibb.co/JnTLcGC/abdomninal-roller-1.png",
+        "age": "22-25",
+        "name": "Abdominal Roller",
+        "time": "55",
+        "text": ""
+    },
+    {
+        "_id": "6335759053bb9c8a4821b90a",
+        "picture": "https://i.ibb.co/RvzGxb5/elipticals-gym-1.png",
+        "age": "39-25",
+        "name": "Elipticals",
+        "time": "45",
+        "text": ""
+    },
+    {
+        "_id": "6335759037887bf04c2c760d",
+        "picture": "https://i.ibb.co/7vtvNR8/rowing-machine-1.png",
+        "age": "30-25",
+        "name": "Rowing Machine",
+        "time": "25",
+        "text": ""
+    },
+    {
+        "_id": "633575905fe6442c24da44cf",
+        "picture": "https://i.ibb.co/xfp7fvR/Burbell-set-gym-1.png",
+        "age": "40-25",
+        "name": "Barbel Set",
+        "time": "15",
+        "text": ""
+    },
+    {
+        "_id": "63357590085e1b2363a658f7",
+        "picture": "https://i.ibb.co/QQSPgVD/dumbell-gym-1.png",
+        "age": "21-25",
+        "name": "Dumble",
+        "time": "35",
+        "text": ""
+    }
+]
